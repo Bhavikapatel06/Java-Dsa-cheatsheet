@@ -11,8 +11,10 @@
 
 // Output : false
 
-// Explanation : For i == 2 it does not hold nums[i] <= nums[i+1], hence it is not sorted and we return false.
+// Explanation : For i == 2 it does not hold nums[i] <= nums[i+1], hence
+// it is not sorted and we return false.
 
+//test
 public class CheckSortedArray {
 
     public static boolean isSorted(int[] nums) {
